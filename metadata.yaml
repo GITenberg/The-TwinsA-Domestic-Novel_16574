@@ -1,0 +1,30 @@
+_repo: The-TwinsA-Domestic-Novel_16574
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tupper, Martin Farquhar
+    aliases:
+    - Tupper, Martin F. (Martin Farquhar)
+    - Tupper, M. F. (Martin Farquhar)
+    birthdate: 1810
+    deathdate: 1889
+    gutenberg_agent_id: '6801'
+    url: http://www.gutenberg.org/2009/agents/6801
+    wikipedia: http://en.wikipedia.org/wiki/Martin_Farquhar_Tupper
+description: ''
+gutenberg_issued: '2005-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'The Twins: A Domestic Novel'
+url: http://www.gutenberg.org/ebooks/16574
